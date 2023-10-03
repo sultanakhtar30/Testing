@@ -1,3 +1,3 @@
 # Testing
 
-new version
+version
